@@ -1,3 +1,3 @@
-module github.com/aidenliu/iconv
+module github.com/qiniu/iconv
 
 go 1.14
